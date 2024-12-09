@@ -1,0 +1,7 @@
+node_modules
+build
+bun.lockb
+backend
+src-tauri
+.svelte-kit
+src/lib/utils/bindings.ts

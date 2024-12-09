@@ -1,0 +1,5 @@
+[log]
+level = "debug"
+
+[tauri]
+bindings_output_path = "../src/lib/utils/bindings.ts"
